@@ -31,6 +31,15 @@
 | Auth provider | Blockchain          | Block protobuf       | gRPC endpoint                             |
 |---------------|---------------------|----------------------|-------------------------------------------|
 | eosnation     | EOS                 | sf.antelope.type.v1  | [eos.firehose.eosnation.io:9001](http://eos.firehose.eosnation.io:9001)      |
+| eosnation     | EOS                 | sf.antelope.type.v1  | [eos.firehose.eosnation.io:9001](http://eos.firehose.eosnation.io:9001)      |
+| eosnation     | WAX                 | sf.antelope.type.v1  | [wax.firehose.eosnation.io:9001](http://wax.firehose.eosnation.io:9001)      |
+| eosnation     | ORE                 | sf.antelope.type.v1  | [ore.firehose.eosnation.io:9001](http://ore.firehose.eosnation.io:9001)      |
+| eosnation     | Telos               | sf.antelope.type.v1  | [telos.firehose.eosnation.io:9001](http://telos.firehose.eosnation.io:9001)      |
+| eosnation     | WAX Testnet         | sf.antelope.type.v1  | [waxtest.firehose.eosnation.io:9001](http://waxtest.firehose.eosnation.io:9001)      |
+| eosnation     | Jungle4 (Testnet)   | sf.antelope.type.v1  | [jungle4.firehose.eosnation.io:9001](http://jungle4.firehose.eosnation.io:9001)      |
+| eosnation     | Kylin (Testnet)     | sf.antelope.type.v1  | [kylin.firehose.eosnation.io:9001](http://kylin.firehose.eosnation.io:9001)      |
+| eosnation     | Ore Stage           | sf.antelope.type.v1  | [orestage.firehose.eosnation.io:9001](http://orestage.firehose.eosnation.io:9001)      |
+| eosnation     | Telos Testnet       | sf.antelope.type.v1  | [telostest.firehose.eosnation.io:9001](http://telostest.firehose.eosnation.io:9001)      |
 | eosnation     | EOS                 | dfuse.eosio.codec.v1 | [eos.firehose.eosnation.io:9000](http://eos.firehose.eosnation.io:9000)      |
 | eosnation     | WAX                 | dfuse.eosio.codec.v1 | [wax.firehose.eosnation.io:9000](http://wax.firehose.eosnation.io:9000)      |
 | eosnation     | Kylin               | dfuse.eosio.codec.v1 | [kylin.firehose.eosnation.io:9000](http://kylin.firehose.eosnation.io:9000)    |
